@@ -1,3 +1,0 @@
-[submodule ".github/agents"]
-	path = .github/agents
-	url = https://github.com/mukeshsingh76/CodeReview_Agent
